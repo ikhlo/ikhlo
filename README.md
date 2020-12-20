@@ -19,7 +19,7 @@
 
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 
-<img align="left" alt="OracleSQL" width="26px" src="https://banner2.cleanpng.com/20180320/qwq/kisspng-oracle-sql-developer-oracle-database-pl-sql-oracle-vector-sql-server-icon-5ab0cd69bc5833.9561526915215363617715.jpg" />
+<img align="left" alt="OracleSQL" width="26px" src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" />
 
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
