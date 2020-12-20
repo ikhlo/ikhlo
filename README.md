@@ -1,6 +1,6 @@
-### Hello everyone, I am Ikhlass. Nice to meet you! 👋
+## Hello everyone, I am Ikhlass. Nice to meet you! 👋
 
-## I'm a Data Science, AI and Marketing student based in Paris, FRANCE. 🇫🇷 
+### I'm a Data Science, AI and Marketing student based in Paris, FRANCE. 🇫🇷 
 
 - 💼 I am currently working on a Data Science project with [Naturgy][naturgy] company. 
 - 🌱 I’m currently improving my skills in Deep Learning, Chatbot, Advanced NoSQL and Web datamining.
