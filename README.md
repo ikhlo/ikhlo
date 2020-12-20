@@ -1,6 +1,3 @@
-<!--
-**ikhlo/ikhlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hello everyone, I am Ikhlass. Nice to meet you! 👋
 
 ## I'm an engineering and management student based in Paris.
