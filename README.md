@@ -1,4 +1,4 @@
-## Hello everyone, I am Ikhlass. Nice to meet you! 👋
+## Nice to meet you! 👋 I am Ikhlass.
 
 ### I'm a Data Science, AI and Marketing student based in Paris, FRANCE. 🇫🇷 
 
