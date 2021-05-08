@@ -2,10 +2,9 @@
 
 ### I'm a Data Science, AI and Marketing student based in Paris, FRANCE. 🇫🇷 
 
-- 💼 I am currently working on a Data Science project with [Naturgy][naturgy] company. 
-- 🌱 I’m currently improving my skills in Deep Learning, Chatbot, Advanced NoSQL and Web datamining.
+- 💼 I am currently working on COVID-19 cell images as a Deep Learning Engineer at [Institut Pasteur][pasteur]. 
+- 🌱 Specialized in Image analysis and classification with Deep Learning and Recommendation systems.
 - ⭐ Hobbies: Mangas, Fighting sports, Self-development and Competition addict 💪.
-- 🎯 2021 Goals: Win a Kaggle competition!
 
 ### Contact me:
 
@@ -15,6 +14,6 @@
 
 <br />
 
-[naturgy]: https://www.naturgy.com/inicio
+[pasteur]: https://www.pasteur.fr/fr
 [linkedin]: https://www.linkedin.com/in/ikhlass-yaya-oye
 [kaggle]: https://www.kaggle.com/ikhlass
