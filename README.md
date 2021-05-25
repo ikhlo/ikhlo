@@ -4,7 +4,7 @@
 
 - 💼 I am currently working on COVID-19 cell images as a Deep Learning Engineer at [Institut Pasteur][pasteur]. 
 - 🌱 Specialized in Image analysis and classification with Deep Learning and Recommendation systems.
-- ⭐ Hobbies: Mangas, Fighting sports, Self-development and Competition addict 💪.
+- ⭐ Hobbies: Mangas, Sports, Self-development and Competition addict 💪.
 
 ### Contact me:
 
