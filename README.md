@@ -2,7 +2,7 @@
 
 ### I'm a Data Science, AI and Marketing student based in Paris, FRANCE. 🇫🇷 
 
-- 💼 I am currently working on COVID-19 cell images as a Deep Learning Engineer at [Institut Pasteur][pasteur]. 
+- 💼 I am finishing studies from a Master Degree in Applied Mathematics for Data science with [Institut Polytechnique][ip]. 
 - 🌱 Specialized in Image analysis and classification with Deep Learning and Recommendation systems.
 - ⭐ Hobbies: Mangas, Sports, Self-development and Competition addict 💪.
 
@@ -14,6 +14,6 @@
 
 <br />
 
-[pasteur]: https://www.pasteur.fr/fr
+[ip]: https://www.ip-paris.fr/en
 [linkedin]: https://www.linkedin.com/in/ikhlass-yaya-oye
 [kaggle]: https://www.kaggle.com/ikhlass
