@@ -1,6 +1,6 @@
-## Nice to meet you! 👋 I am Ikhlass.
+## Hey there! 👋 I am Ikhlass.
 
-### I'm a Data Science, AI and Marketing student based in Paris, FRANCE. 🇫🇷 
+### I'm an IT engineer interested in big data, ai and software development, based in Paris. 🇫🇷 
 
 - 💼 I am finishing studies from a Master Degree in Applied Mathematics for Data science with [Institut Polytechnique][ip]. 
 - 🌱 Specialized in Image analysis and classification with Deep Learning and Recommendation systems.
