@@ -2,8 +2,8 @@
 
 ### I'm an IT engineer interested in big data, ai and software development, based in Paris. 🇫🇷 
 
-- 💼 I am finishing studies from a Master Degree in Applied Mathematics for Data science with [Institut Polytechnique][ip]. 
-- 🌱 Specialized in Image analysis and classification with Deep Learning and Recommendation systems.
+- 💼 I am working as Reinforcement Learning Engineer at [Air Liquide][work]. 
+- 🌱 Like reading about Machine Learning topics and Graph study.
 - ⭐ Hobbies: Mangas, Sports, Self-development and Competition addict 💪.
 
 ### Contact me:
@@ -14,6 +14,6 @@
 
 <br />
 
-[ip]: https://www.ip-paris.fr/en
+[work]: https://www.airliquide.com
 [linkedin]: https://www.linkedin.com/in/ikhlass-yaya-oye
 [kaggle]: https://www.kaggle.com/ikhlass
